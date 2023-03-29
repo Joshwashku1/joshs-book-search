@@ -19,6 +19,10 @@ const typeDefs = gql`
     }
 
     type Auth {
+
+    }
+
+    type Query {
         
     }
 `;
